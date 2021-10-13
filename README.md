@@ -1,4 +1,4 @@
-<img align="right" style="height:100px" style="width:100px" alt="gif kirby" src="img/kirbyGif.gif"/>
+<img align="right" style="height:300px" style="width:300px" style="margin-right:100px" alt="gif kirby" src="img/kirbyGif.gif"/>
 
 ### ⭐️ Hi there, I'm Chynna! ⭐️
 
