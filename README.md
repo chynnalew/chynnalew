@@ -1,4 +1,7 @@
+<img align="right" style="height:100px" style="width:100px" alt="gif kirby" src="img/kirbyGif.gif"/>
+
 ### ⭐️ Hi there, I'm Chynna! ⭐️
+
 
 ### About Me
 #### **Currently Enrolled in Epicodus Bootcamp**
