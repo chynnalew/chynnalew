@@ -7,7 +7,7 @@
 ## **Currently Enrolled in Epicodus Bootcamp**
 - **Bootcamp Learning:** Full-Stack Devalopment
   - **Languages:** JavaScript, C#, React
-- **Self-Study Frameworks:** Phaser 3, Unity
+- **Self-Study Frameworks:** Phaser 3, MonoGame, Unity
 
 ### My passion lies in creating stylized user friendly applications and I love delving into game development in my free time!     
 
