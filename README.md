@@ -13,4 +13,4 @@
 ---------------------------------  
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&show_icons=true_color=008000&icon_color=79ff97&text_color=FF1493&bg_color=151515)
+![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true)
