@@ -8,7 +8,7 @@
 - **Languages:** JavaScript, C#
 - **Libraries/Frameworks:** React js, ASP.NET Core, Phaser3, jQuery, Bootstrap
 
-### My passion lies in creating stylized user friendly applications and I love delving into game development in my free time!     
+### My passion lies in creating stylized user friendly applications!     
 
 ---------------------------------  
 
