@@ -6,7 +6,7 @@
 
 ## **Full Stack Developer**
 - **Languages:** JavaScript, C#
-- **Libraries/Frameworks:** React js, ASP.NET Core, Phaser3, jQuery, Bootstrap
+- **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap
 
 ### My passion lies in creating stylized user friendly applications!     
 
