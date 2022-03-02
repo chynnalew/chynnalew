@@ -3,12 +3,9 @@
 # ⭐️ Hi there, I'm Chynna! ⭐️
 ------------------------------       
 
-
 ## **Full Stack Developer**
-- **Languages:** JavaScript, C#
-- **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap
-
-### My passion lies in creating stylized user friendly applications!     
+- **Languages:** JavaScript, C#, PHP
+- **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap, WordPress
 
 ---------------------------------  
 
