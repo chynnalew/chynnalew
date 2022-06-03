@@ -7,6 +7,13 @@
 - **Languages:** JavaScript, C#, PHP
 - **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap, WordPress
 
+## ** Current Work **
+- **Front End Development**
+- Wordpress (custom child theme development)
+- PHP
+- Javascript / jQuery
+- HTML
+- CSS
 ---------------------------------  
 
 
