@@ -9,11 +9,11 @@
 
 ## ** Current Work **
 - **Front End Development**
-- Wordpress (custom child theme development)
-- PHP
-- Javascript / jQuery
-- HTML
-- CSS
+  - Wordpress (custom child theme development)
+    - PHP
+    - Javascript / jQuery
+    - HTML
+    - CSS
 ---------------------------------  
 
 
