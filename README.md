@@ -7,8 +7,6 @@
 - **Languages:** JavaScript, C#, PHP
 - **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap, WordPress
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical)](https://github.com/chynnalew/github-readme-stats)
-
 ## ** Current Work **
 - **Front End Development**
   - Wordpress (custom child theme development)
@@ -17,5 +15,8 @@
     - HTML
     - CSS
 ---------------------------------  
+<img align="right" style="height:300px" style="width:300px" style="margin-right:100px" alt="gif kirby" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical)](https://github.com/chynnalew/github-readme-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true)
