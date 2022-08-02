@@ -7,6 +7,8 @@
 - **Languages:** JavaScript, C#, PHP
 - **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap, WordPress
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical)](https://github.com/chynnalew/github-readme-stats)
+
 ## ** Current Work **
 - **Front End Development**
   - Wordpress (custom child theme development)
@@ -15,6 +17,5 @@
     - HTML
     - CSS
 ---------------------------------  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&theme=radical)](https://github.com/chynnalew/github-readme-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true)
