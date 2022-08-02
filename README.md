@@ -15,6 +15,6 @@
     - HTML
     - CSS
 ---------------------------------  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew)](https://github.com/chynnalew/github-readme-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true)
