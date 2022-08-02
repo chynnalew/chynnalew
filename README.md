@@ -16,4 +16,4 @@
     - CSS
 ---------------------------------  
 
-| ![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true) | <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/> |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true) | <img style="height:195px" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/> |
