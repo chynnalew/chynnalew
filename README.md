@@ -15,8 +15,6 @@
     - HTML
     - CSS
 ---------------------------------  
-<img align="right" style="height:300px" style="width:300px" style="margin-right:100px" alt="gif kirby" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical)](https://github.com/chynnalew/github-readme-stats)
+<img align="right" style="margin-right:50px" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true)
