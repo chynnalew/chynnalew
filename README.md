@@ -3,13 +3,13 @@
 # ⭐️ Hi there, I'm Chynna! ⭐️
 ------------------------------       
 
-## **Full Stack Developer**
+## **Frontend Developer**
 - **Languages:** JavaScript, C#, PHP
 - **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap, WordPress
 
 ## ** Current Work **
-- **Front End Development**
-  - Wordpress (custom child theme development)
+- **Wordpress**
+  - Custom child theme development
     - PHP
     - Javascript / jQuery
     - HTML
