@@ -15,5 +15,5 @@
     - HTML
     - CSS
 ---------------------------------  
-
+![Chynna's GitHub stats](https://github-readme-stats.vercel.app/api?username=chynnalew&show_icons=true&theme=transparent)
 <img style="margin-right: 40px" src="https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true" />  <img style="height:195px" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/> 
