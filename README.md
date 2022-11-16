@@ -15,4 +15,4 @@
     - HTML
     - CSS
 ---------------------------------  
-<img style="margin-right: 40px" src="https://github-readme-stats.vercel.app/api?username=chynnalew&theme=radical&show_icons=true" />  <img style="height:195px" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnalew&layout=compact&theme=radical"/> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chynnalew)](https://github.com/anuraghazra/github-readme-stats)
