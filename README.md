@@ -4,7 +4,7 @@
 ------------------------------       
 
 ## **Frontend Developer**
-- **Languages:** JavaScript, C#, PHP
+- **Languages:** HTML, CSS, JavaScript, PHP, C#
 - **Libraries/Frameworks:** React js, React Native, ASP.NET Core, Phaser3, jQuery, Bootstrap, WordPress
 
 ## ** Current Work **
